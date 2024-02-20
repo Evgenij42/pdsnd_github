@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Bikes rental analysis 
-Describe what your project is about and what it does
+My project is about bike rental analysis
 
 ### Files used
 Include the files used
